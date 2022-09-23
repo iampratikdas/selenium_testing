@@ -1,0 +1,16 @@
+{
+  "name": "test_google",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^103.0.0",
+    "geckodriver": "^3.0.1",
+    "selenium-webdriver": "^4.3.0"
+  }
+}
